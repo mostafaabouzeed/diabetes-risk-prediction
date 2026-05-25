@@ -98,6 +98,12 @@ Non-technical business-focused report summarizing major findings, model performa
 
 ---
 
+## Project Presentation
+
+Watch the project walkthrough presentation here:
+
+[Watch Presentation Video](https://www.youtube.com/watch?v=ZbcgipcCtT4)
+
 ## Author
 Mostafa Abouzeed  
 Master’s in Data Science — Boston University
