@@ -11,4 +11,7 @@ Topics covered include:
 - Feature importance interpretation
 - Healthcare insights and recommendations
 
+Watch the project walkthrough presentation here:
+[Watch Presentation Video](https://www.youtube.com/watch?v=ZbcgipcCtT4)
+
 The presentation was developed as part of the Boston University Data Science Capstone project. 
