@@ -11,4 +11,4 @@ Topics covered include:
 - Feature importance interpretation
 - Healthcare insights and recommendations
 
-The presentation was developed as part of the Boston University Data Science Capstone project. :contentReference[oaicite:0]{index=0}
+The presentation was developed as part of the Boston University Data Science Capstone project. 
