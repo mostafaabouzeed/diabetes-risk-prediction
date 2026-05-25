@@ -45,6 +45,26 @@ Key features include:
 
 ---
 
+## Visualizations
+
+### ROC Curve Comparison
+![ROC Curve](images/roc_curve_comparison.png)
+
+### Confusion Matrix — Gradient Boosting
+![Confusion Matrix](images/confusion_matrix_gradient_boosting.png)
+
+### Correlation Heatmap — Health Indicators
+![Heatmap](images/correlation_heatmap_health_indicators.png)
+
+### Correlation Heatmap — Numeric Features
+![Heatmap](images/correlation_heatmap_numeric_features.png)
+
+### Diabetes Prevalence by General Health
+![General Health](images/diabetes_prevalence_general_health.png)
+
+### Diabetes Prevalence Across Age Categories
+![Age Risk](images/diabetes_prevalence_age.png)
+
 ## Project Documentation
 
 ### Milestone 1 — Foundations & Overfitting Analysis
