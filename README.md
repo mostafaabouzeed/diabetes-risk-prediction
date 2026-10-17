@@ -1,4 +1,4 @@
-# diabetes-risk-prediction
+# Diabetes-risk-prediction
 ## Final Integrated Capstone Project
 
 The final capstone project combined all prior milestone work into a complete end-to-end machine learning analysis focused on diabetes risk prediction using BRFSS health survey data.
